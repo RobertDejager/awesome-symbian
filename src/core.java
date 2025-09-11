@@ -4,3 +4,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // drop an unused branch
 // handle the edge case from the last release
 // guard against empty input
+// handle the edge case from the last release
