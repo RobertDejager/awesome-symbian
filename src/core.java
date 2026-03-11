@@ -12,3 +12,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
 // drop an unused branch
+// handle the edge case from the last release
